@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\epam\\Day4\\UnitTest1\\TestLib.csproj": {}
+  },
+  "projects": {
+    "D:\\epam\\Day4\\NET.A.2019.Alekseev.02\\NET.A.2019.Alekseev.04.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\epam\\Day4\\NET.A.2019.Alekseev.02\\NET.A.2019.Alekseev.04.csproj",
+        "projectName": "NET.A.2019.Alekseev.04",
+        "projectPath": "D:\\epam\\Day4\\NET.A.2019.Alekseev.02\\NET.A.2019.Alekseev.04.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\epam\\Day4\\UnitTest1\\TestLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\epam\\Day4\\UnitTest1\\TestLib.csproj",
+        "projectName": "TestLib",
+        "projectPath": "D:\\epam\\Day4\\UnitTest1\\TestLib.csproj",
+        "packagesPath": "C:\\Users\\Zver\\.nuget\\packages\\",
+        "outputPath": "D:\\epam\\Day4\\UnitTest1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Zver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\epam\\Day4\\NET.A.2019.Alekseev.02\\NET.A.2019.Alekseev.04.csproj": {
+                "projectPath": "D:\\epam\\Day4\\NET.A.2019.Alekseev.02\\NET.A.2019.Alekseev.04.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.3.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

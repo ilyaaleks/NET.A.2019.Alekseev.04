@@ -1,0 +1,7 @@
+D:\epam\Day4\NET.A.2019.Alekseev.02\bin\Debug\NET.A.2019.Alekseev.02.exe.config
+D:\epam\Day4\NET.A.2019.Alekseev.02\bin\Debug\NET.A.2019.Alekseev.02.exe
+D:\epam\Day4\NET.A.2019.Alekseev.02\bin\Debug\NET.A.2019.Alekseev.02.pdb
+D:\epam\Day4\NET.A.2019.Alekseev.02\obj\Debug\NET.A.2019.Alekseev.04.csprojAssemblyReference.cache
+D:\epam\Day4\NET.A.2019.Alekseev.02\obj\Debug\NET.A.2019.Alekseev.04.csproj.CoreCompileInputs.cache
+D:\epam\Day4\NET.A.2019.Alekseev.02\obj\Debug\NET.A.2019.Alekseev.02.exe
+D:\epam\Day4\NET.A.2019.Alekseev.02\obj\Debug\NET.A.2019.Alekseev.02.pdb
